@@ -6235,7 +6235,7 @@ http://stream-sky.cf:80/147258/147258/52
 http://stream-sky.cf:80/147258/147258/51
 #EXTINF: -1 tvg-id="Fox.br" tvg-name="Fox FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/1c60b7c0-cddf-11ea-a7af-ab8c585262db/451504/75761013.png" group-title="Canais: Filmes e Séries", Fox FHD
 http://stream-sky.cf:80/147258/147258/50771
-#EXTINF: -1 tvg-id="Fox.br" tvg-name="Fox HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/1c60b7c0-cddf-11ea-a7af-ab8c585262db/451504/75761014.png" group-title="Canais: Filmes e Séries", Fox HD
+#EXTINF: -1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/1c60b7c0-cddf-11ea-a7af-ab8c585262db/451504/75761014.png" group-title="Canais: Filmes e Séries", FOX HD
 http://stream-sky.cf:80/147258/147258/107
 #EXTINF: -1 tvg-id="Foxlife.br" tvg-name="Fox Life FHD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxlife.png" group-title="Canais: Filmes e Séries", Fox Life FHD
 http://stream-sky.cf:80/147258/147258/1032880
